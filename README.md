@@ -9,5 +9,10 @@ Generating text a la Dostoevsky
 - Preprocessed dataset. 
 - Used sberbank-ai/rugpt3large_based_on_gpt2 model and fine tuned it on my dataset.
 
+## How it works:
+![start](example/start.jpeg)
+![info](example/info.jpeg)
+![example](example/example.jpeg)
+
 ## Link:
 - https://t.me/Dostoevsky_genBot
